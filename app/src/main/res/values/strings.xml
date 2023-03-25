@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetPackCompose</string>
+    <string name="title_activity_mvicompose">MVIComposeActivity</string>
 </resources>
